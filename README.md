@@ -21,7 +21,7 @@ This project demonstrates how to create a simple interactive digital library int
 ✔ Simple Python backend  
 ✔ No frontend (HTML/CSS/JS) required :contentReference[oaicite:3]{index=3}
 
-> *(Add more features based on your actual app functionality — e.g., search, filtering, upload, user auth — if implemented.)*
+
 
 ---
 
