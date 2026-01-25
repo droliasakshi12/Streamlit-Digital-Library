@@ -32,7 +32,6 @@ This project demonstrates how to create a simple interactive digital library int
 | **Streamlit** | Framework for building web app UI |
 
 
-
 > Streamlit lets you transform Python scripts into interactive web apps in minutes, instead of weeks. 
 
 ---
@@ -49,7 +48,7 @@ python3 -m venv venv
 ```
 ## ⚙️Install Dependencies
 ``` bash
-pip3 install -r requirements.tx
+pip3 install -r requirements.txt
 ```
 ## ▶️ Running the App
 ``` bash
